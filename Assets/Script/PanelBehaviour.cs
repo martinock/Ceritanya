@@ -60,7 +60,7 @@ public class PanelBehaviour : MonoBehaviour {
                 break;
 
             case "Sayur":
-                if (GamesTebakHuruf.IsPamanTrue)
+                if (GamesTebakHuruf.IsSayurTrue)
                 {
                     panelFilled.SetActive(true);
                 }
