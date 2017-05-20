@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Song Selection3.unity
+- path: Assets/Scenes/Video Player.unity
   isLoaded: 1
   isActive: 1
