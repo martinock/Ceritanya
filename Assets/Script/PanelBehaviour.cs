@@ -16,7 +16,7 @@ public class PanelBehaviour : MonoBehaviour {
         switch(EventSystem.current.currentSelectedGameObject.name)
         {
             case "Paman":
-                if (GamesTebakHuruf.IsPamanTrue)
+                if (GamesVariables.IsPamanTrue)
                 {
                     panelFilled.SetActive(true);
                 }
@@ -27,7 +27,7 @@ public class PanelBehaviour : MonoBehaviour {
                 break;
 
             case "Pisang":
-                if (GamesTebakHuruf.IsPisangTrue)
+                if (GamesVariables.IsPisangTrue)
                 {
                     panelFilled.SetActive(true);
                 }
@@ -38,7 +38,7 @@ public class PanelBehaviour : MonoBehaviour {
                 break;
 
             case "Rambutan":
-                if (GamesTebakHuruf.IsRambutanTrue)
+                if (GamesVariables.IsRambutanTrue)
                 {
                     panelFilled.SetActive(true);
                 }
@@ -49,7 +49,7 @@ public class PanelBehaviour : MonoBehaviour {
                 break;
 
             case "Ternak":
-                if (GamesTebakHuruf.IsTernakTrue)
+                if (GamesVariables.IsTernakTrue)
                 {
                     panelFilled.SetActive(true);
                 }
@@ -60,7 +60,7 @@ public class PanelBehaviour : MonoBehaviour {
                 break;
 
             case "Sayur":
-                if (GamesTebakHuruf.IsSayurTrue)
+                if (GamesVariables.IsSayurTrue)
                 {
                     panelFilled.SetActive(true);
                 }

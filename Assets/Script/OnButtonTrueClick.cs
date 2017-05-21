@@ -6,26 +6,26 @@ using UnityEngine;
 public class OnButtonTrueClick : MonoBehaviour {
     public void PamanTrue(Boolean x)
     {
-        GamesTebakHuruf.IsPamanTrue = x;
+        GamesVariables.IsPamanTrue = x;
     }
 
     public void PisangTrue(Boolean x)
     {
-        GamesTebakHuruf.IsPisangTrue = x;
+        GamesVariables.IsPisangTrue = x;
     }
 
     public void SayurTrue(Boolean x)
     {
-        GamesTebakHuruf.IsSayurTrue = true;
+        GamesVariables.IsSayurTrue = x;
     }
 
     public void TernakTrue(Boolean x)
     {
-        GamesTebakHuruf.IsTernakTrue = true;
+        GamesVariables.IsTernakTrue = x;
     }
 
     public void RambutanTrue(Boolean x)
     {
-        GamesTebakHuruf.IsRambutanTrue = true;
+        GamesVariables.IsRambutanTrue = x;
     }
 }
