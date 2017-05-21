@@ -15,7 +15,11 @@ public class GameOver : MonoBehaviour {
 	void Update () {
 	    if (IsGameOver())
         {
-            finishedPanel.SetActive(true);
+            if (!GamesVariables.HideGameOverPanel)
+            {
+                finishedPanel.SetActive(true);
+                GamesVariables.HideGameOverPanel = true;
+            }
         }
 	}
 
