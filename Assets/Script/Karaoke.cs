@@ -28,7 +28,7 @@ public class Karaoke : MonoBehaviour
     void Start()
     {
 #if UNITY_ANDROID
-        Handheld.PlayFullScreenMovie("Assets/Resources/1");
+        Handheld.PlayFullScreenMovie("Basdat H-8.mp4", Color.black, FullScreenMovieControlMode.Full, FullScreenMovieScalingMode.AspectFill);
 #else
         switch (GamesVariables.songSelection)
         {

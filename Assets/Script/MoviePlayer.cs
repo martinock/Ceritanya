@@ -24,7 +24,7 @@ public class MoviePlayer : MonoBehaviour {
     // Use this for initialization
     void Start() {
 #if UNITY_ANDROID
-        Handheld.PlayFullScreenMovie("Assets/Resources/1");
+        Handheld.PlayFullScreenMovie("asd.mp4");
 #else
         switch (GamesVariables.songSelection)
         {
