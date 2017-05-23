@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
@@ -8,8 +9,12 @@ using UnityEngine.UI;
 
 public class Karaoke : MonoBehaviour
 {
-
+#if UNITY_ANDROID
+#else
     private MovieTexture movie;
+    private AudioSource audioKaraoke;
+#endif
+    public GameObject finishedPanel;
     public Button playButton;
     public Button muteButton;
     public Button homeButton;
@@ -17,11 +22,14 @@ public class Karaoke : MonoBehaviour
     public Button repeatButton;
     public Sprite play;
     public Sprite pause;
-    private AudioSource audio;
+    private bool isPause = false;
 
     // Use this for initialization
     void Start()
     {
+#if UNITY_ANDROID
+        Handheld.PlayFullScreenMovie("Assets/Resources/1");
+#else
         switch (GamesVariables.songSelection)
         {
             case 0:
@@ -32,8 +40,8 @@ public class Karaoke : MonoBehaviour
                 break;
         }
         GetComponent<RawImage>().texture = movie as MovieTexture;
-        audio = GetComponent<AudioSource>();
-        audio.clip = movie.audioClip;
+        audioKaraoke = GetComponent<AudioSource>();
+        audioKaraoke.clip = movie.audioClip;
 
         playButton.onClick.AddListener(PlayOrPause);
         muteButton.onClick.AddListener(Mute);
@@ -41,12 +49,14 @@ public class Karaoke : MonoBehaviour
         continueButton.onClick.AddListener(PlayMovie);
         repeatButton.onClick.AddListener(Repeat);
 
-        movie.Play();
-        audio.Play();
+        PlayMovietillEnd(ShowPanel);
+#endif
     }
 
     void PlayOrPause()
     {
+#if UNITY_ANDROID
+#else
         if (movie.isPlaying)
         {
             PauseMovie();
@@ -57,35 +67,87 @@ public class Karaoke : MonoBehaviour
             PlayMovie();
             playButton.GetComponent<Image>().sprite = pause;
         }
+#endif
     }
 
     void Mute()
     {
-        if (!audio.mute)
+#if UNITY_ANDROID
+#else
+        if (!audioKaraoke.mute)
         {
-            audio.mute = true;
+            audioKaraoke.mute = true;
         }
         else
         {
-            audio.mute = false;
+            audioKaraoke.mute = false;
         }
+#endif
     }
 
     void PlayMovie()
     {
+#if UNITY_ANDROID
+#else
+        isPause = false;
         movie.Play();
+#endif
     }
 
     void PauseMovie()
     {
+#if UNITY_ANDROID
+#else
+        isPause = true;
         movie.Pause();
+#endif
     }
 
     void Repeat()
     {
+#if UNITY_ANDROID
+#else
         movie.Stop();
-        audio.Stop();
+        audioKaraoke.Stop();
         movie.Play();
-        audio.Play();
+        audioKaraoke.Play();
+#endif
+    }
+
+    private void ShowPanel()
+    {
+#if UNITY_ANDROID
+#else
+        finishedPanel.SetActive(true);
+        playButton.interactable = false;
+        muteButton.interactable = false;
+        homeButton.interactable = false;
+#endif
+    }
+
+    private void PlayMovietillEnd(Action callback)
+    {
+#if UNITY_ANDROID
+        
+#else
+        movie.Play();
+        audioKaraoke.Play();
+#endif
+        StartCoroutine(FindEnd(callback));
+    }
+
+    private IEnumerator FindEnd(Action callback)
+    {
+#if UNITY_ANDROID
+        yield return 0;
+#else
+        while (movie.isPlaying || isPause)
+        {
+            yield return 0;
+        }
+
+        callback();
+        yield break;
+#endif
     }
 }
