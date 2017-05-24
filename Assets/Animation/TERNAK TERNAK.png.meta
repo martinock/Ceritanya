@@ -1,0 +1,1176 @@
+fileFormatVersion: 2
+guid: 4e8b6978c8f9c864887a73204be07c00
+timeCreated: 1495633070
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TERNAK TERNAK_0
+    21300002: TERNAK TERNAK_1
+    21300004: TERNAK TERNAK_2
+    21300006: TERNAK TERNAK_3
+    21300008: TERNAK TERNAK_4
+    21300010: TERNAK TERNAK_5
+    21300012: TERNAK TERNAK_6
+    21300014: TERNAK TERNAK_7
+    21300016: TERNAK TERNAK_8
+    21300018: TERNAK TERNAK_9
+    21300020: TERNAK TERNAK_10
+    21300022: TERNAK TERNAK_11
+    21300024: TERNAK TERNAK_12
+    21300026: TERNAK TERNAK_13
+    21300028: TERNAK TERNAK_14
+    21300030: TERNAK TERNAK_15
+    21300032: TERNAK TERNAK_16
+    21300034: TERNAK TERNAK_17
+    21300036: TERNAK TERNAK_18
+    21300038: TERNAK TERNAK_19
+    21300040: TERNAK TERNAK_20
+    21300042: TERNAK TERNAK_21
+    21300044: TERNAK TERNAK_22
+    21300046: TERNAK TERNAK_23
+    21300048: TERNAK TERNAK_24
+    21300050: TERNAK TERNAK_25
+    21300052: TERNAK TERNAK_26
+    21300054: TERNAK TERNAK_27
+    21300056: TERNAK TERNAK_28
+    21300058: TERNAK TERNAK_29
+    21300060: TERNAK TERNAK_30
+    21300062: TERNAK TERNAK_31
+    21300064: TERNAK TERNAK_32
+    21300066: TERNAK TERNAK_33
+    21300068: TERNAK TERNAK_34
+    21300070: TERNAK TERNAK_35
+    21300072: TERNAK TERNAK_36
+    21300074: TERNAK TERNAK_37
+    21300076: TERNAK TERNAK_38
+    21300078: TERNAK TERNAK_39
+    21300080: TERNAK TERNAK_40
+    21300082: TERNAK TERNAK_41
+    21300084: TERNAK TERNAK_42
+    21300086: TERNAK TERNAK_43
+    21300088: TERNAK TERNAK_44
+    21300090: TERNAK TERNAK_45
+    21300092: TERNAK TERNAK_46
+    21300094: TERNAK TERNAK_47
+    21300096: TERNAK TERNAK_48
+    21300098: TERNAK TERNAK_49
+    21300100: TERNAK TERNAK_50
+    21300102: TERNAK TERNAK_51
+    21300104: TERNAK TERNAK_52
+    21300106: TERNAK TERNAK_53
+    21300108: TERNAK TERNAK_54
+    21300110: TERNAK TERNAK_55
+    21300112: TERNAK TERNAK_56
+    21300114: TERNAK TERNAK_57
+    21300116: TERNAK TERNAK_58
+    21300118: TERNAK TERNAK_59
+    21300120: TERNAK TERNAK_60
+    21300122: TERNAK TERNAK_61
+    21300124: TERNAK TERNAK_62
+    21300126: TERNAK TERNAK_63
+    21300128: TERNAK TERNAK_64
+    21300130: TERNAK TERNAK_65
+    21300132: TERNAK TERNAK_66
+    21300134: TERNAK TERNAK_67
+    21300136: TERNAK TERNAK_68
+    21300138: TERNAK TERNAK_69
+    21300140: TERNAK TERNAK_70
+    21300142: TERNAK TERNAK_71
+    21300144: TERNAK TERNAK_72
+    21300146: TERNAK TERNAK_73
+    21300148: TERNAK TERNAK_74
+    21300150: TERNAK TERNAK_75
+    21300152: TERNAK TERNAK_76
+    21300154: TERNAK TERNAK_77
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TERNAK TERNAK_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7510
+        width: 674
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 7510
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_2
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 7510
+        width: 679
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_3
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 7504
+        width: 676
+        height: 654
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_4
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 7510
+        width: 676
+        height: 650
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_5
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 7510
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_6
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 7510
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_7
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 7510
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_8
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 7510
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_9
+      rect:
+        serializedVersion: 2
+        x: 6386
+        y: 7510
+        width: 679
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_10
+      rect:
+        serializedVersion: 2
+        x: 7098
+        y: 7510
+        width: 608
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6830
+        width: 609
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 6830
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_13
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 6830
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_14
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 6830
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_15
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 6830
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_16
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 6830
+        width: 590
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_17
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 6830
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_18
+      rect:
+        serializedVersion: 2
+        x: 4990
+        y: 6830
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_19
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 6830
+        width: 591
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_20
+      rect:
+        serializedVersion: 2
+        x: 6410
+        y: 6830
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_21
+      rect:
+        serializedVersion: 2
+        x: 7118
+        y: 6830
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6150
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 6150
+        width: 588
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_24
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 6150
+        width: 595
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_25
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 5470
+        width: 628
+        height: 1328
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_26
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 6150
+        width: 680
+        height: 650
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_27
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 6150
+        width: 660
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_28
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 6150
+        width: 632
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_29
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 6150
+        width: 616
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_30
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 6150
+        width: 596
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_31
+      rect:
+        serializedVersion: 2
+        x: 6422
+        y: 6150
+        width: 660
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_32
+      rect:
+        serializedVersion: 2
+        x: 7130
+        y: 6150
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5470
+        width: 616
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_34
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 5470
+        width: 604
+        height: 620
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_35
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 5470
+        width: 584
+        height: 675
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_36
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 5470
+        width: 584
+        height: 672
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_37
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 5470
+        width: 591
+        height: 672
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_38
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 5470
+        width: 576
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_39
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 5470
+        width: 576
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_40
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 5470
+        width: 579
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_41
+      rect:
+        serializedVersion: 2
+        x: 6422
+        y: 5470
+        width: 576
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_42
+      rect:
+        serializedVersion: 2
+        x: 7130
+        y: 5470
+        width: 576
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4790
+        width: 576
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_44
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4790
+        width: 576
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_45
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 4790
+        width: 576
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_46
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 4784
+        width: 576
+        height: 654
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_47
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 4790
+        width: 576
+        height: 650
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_48
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 4790
+        width: 580
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_49
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 4790
+        width: 636
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_50
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 4790
+        width: 715
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_51
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 4790
+        width: 696
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_52
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 4790
+        width: 667
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_53
+      rect:
+        serializedVersion: 2
+        x: 7098
+        y: 4790
+        width: 652
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4110
+        width: 626
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_55
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 4110
+        width: 696
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_56
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 4110
+        width: 711
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_57
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 4110
+        width: 648
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_58
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 4110
+        width: 608
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_59
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 4110
+        width: 612
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_60
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 4110
+        width: 608
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_61
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 4110
+        width: 612
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_62
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 4110
+        width: 611
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_63
+      rect:
+        serializedVersion: 2
+        x: 6386
+        y: 4110
+        width: 684
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_64
+      rect:
+        serializedVersion: 2
+        x: 7098
+        y: 4110
+        width: 716
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3430
+        width: 646
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_66
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3430
+        width: 608
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_67
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 3430
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_68
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3430
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_69
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 3430
+        width: 676
+        height: 650
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_70
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 3430
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_71
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 3430
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_72
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 3430
+        width: 679
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_73
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 3430
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_74
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 3430
+        width: 676
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_75
+      rect:
+        serializedVersion: 2
+        x: 7098
+        y: 3430
+        width: 679
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2750
+        width: 674
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TERNAK TERNAK_77
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2750
+        width: 680
+        height: 648
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

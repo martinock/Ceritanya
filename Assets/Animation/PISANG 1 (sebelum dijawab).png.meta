@@ -1,0 +1,2072 @@
+fileFormatVersion: 2
+guid: 0949b0b379356204bbf3b4f9b761370d
+timeCreated: 1495634718
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PISANG 1 (sebelum dijawab)_0
+    21300002: PISANG 1 (sebelum dijawab)_1
+    21300004: PISANG 1 (sebelum dijawab)_2
+    21300006: PISANG 1 (sebelum dijawab)_3
+    21300008: PISANG 1 (sebelum dijawab)_4
+    21300010: PISANG 1 (sebelum dijawab)_5
+    21300012: PISANG 1 (sebelum dijawab)_6
+    21300014: PISANG 1 (sebelum dijawab)_7
+    21300016: PISANG 1 (sebelum dijawab)_8
+    21300018: PISANG 1 (sebelum dijawab)_9
+    21300020: PISANG 1 (sebelum dijawab)_10
+    21300022: PISANG 1 (sebelum dijawab)_11
+    21300024: PISANG 1 (sebelum dijawab)_12
+    21300026: PISANG 1 (sebelum dijawab)_13
+    21300028: PISANG 1 (sebelum dijawab)_14
+    21300030: PISANG 1 (sebelum dijawab)_15
+    21300032: PISANG 1 (sebelum dijawab)_16
+    21300034: PISANG 1 (sebelum dijawab)_17
+    21300036: PISANG 1 (sebelum dijawab)_18
+    21300038: PISANG 1 (sebelum dijawab)_19
+    21300040: PISANG 1 (sebelum dijawab)_20
+    21300042: PISANG 1 (sebelum dijawab)_21
+    21300044: PISANG 1 (sebelum dijawab)_22
+    21300046: PISANG 1 (sebelum dijawab)_23
+    21300048: PISANG 1 (sebelum dijawab)_24
+    21300050: PISANG 1 (sebelum dijawab)_25
+    21300052: PISANG 1 (sebelum dijawab)_26
+    21300054: PISANG 1 (sebelum dijawab)_27
+    21300056: PISANG 1 (sebelum dijawab)_28
+    21300058: PISANG 1 (sebelum dijawab)_29
+    21300060: PISANG 1 (sebelum dijawab)_30
+    21300062: PISANG 1 (sebelum dijawab)_31
+    21300064: PISANG 1 (sebelum dijawab)_32
+    21300066: PISANG 1 (sebelum dijawab)_33
+    21300068: PISANG 1 (sebelum dijawab)_34
+    21300070: PISANG 1 (sebelum dijawab)_35
+    21300072: PISANG 1 (sebelum dijawab)_36
+    21300074: PISANG 1 (sebelum dijawab)_37
+    21300076: PISANG 1 (sebelum dijawab)_38
+    21300078: PISANG 1 (sebelum dijawab)_39
+    21300080: PISANG 1 (sebelum dijawab)_40
+    21300082: PISANG 1 (sebelum dijawab)_41
+    21300084: PISANG 1 (sebelum dijawab)_42
+    21300086: PISANG 1 (sebelum dijawab)_43
+    21300088: PISANG 1 (sebelum dijawab)_44
+    21300090: PISANG 1 (sebelum dijawab)_45
+    21300092: PISANG 1 (sebelum dijawab)_46
+    21300094: PISANG 1 (sebelum dijawab)_47
+    21300096: PISANG 1 (sebelum dijawab)_48
+    21300098: PISANG 1 (sebelum dijawab)_49
+    21300100: PISANG 1 (sebelum dijawab)_50
+    21300102: PISANG 1 (sebelum dijawab)_51
+    21300104: PISANG 1 (sebelum dijawab)_52
+    21300106: PISANG 1 (sebelum dijawab)_53
+    21300108: PISANG 1 (sebelum dijawab)_54
+    21300110: PISANG 1 (sebelum dijawab)_55
+    21300112: PISANG 1 (sebelum dijawab)_56
+    21300114: PISANG 1 (sebelum dijawab)_57
+    21300116: PISANG 1 (sebelum dijawab)_58
+    21300118: PISANG 1 (sebelum dijawab)_59
+    21300120: PISANG 1 (sebelum dijawab)_60
+    21300122: PISANG 1 (sebelum dijawab)_61
+    21300124: PISANG 1 (sebelum dijawab)_62
+    21300126: PISANG 1 (sebelum dijawab)_63
+    21300128: PISANG 1 (sebelum dijawab)_64
+    21300130: PISANG 1 (sebelum dijawab)_65
+    21300132: PISANG 1 (sebelum dijawab)_66
+    21300134: PISANG 1 (sebelum dijawab)_67
+    21300136: PISANG 1 (sebelum dijawab)_68
+    21300138: PISANG 1 (sebelum dijawab)_69
+    21300140: PISANG 1 (sebelum dijawab)_70
+    21300142: PISANG 1 (sebelum dijawab)_71
+    21300144: PISANG 1 (sebelum dijawab)_72
+    21300146: PISANG 1 (sebelum dijawab)_73
+    21300148: PISANG 1 (sebelum dijawab)_74
+    21300150: PISANG 1 (sebelum dijawab)_75
+    21300152: PISANG 1 (sebelum dijawab)_76
+    21300154: PISANG 1 (sebelum dijawab)_77
+    21300156: PISANG 1 (sebelum dijawab)_78
+    21300158: PISANG 1 (sebelum dijawab)_79
+    21300160: PISANG 1 (sebelum dijawab)_80
+    21300162: PISANG 1 (sebelum dijawab)_81
+    21300164: PISANG 1 (sebelum dijawab)_82
+    21300166: PISANG 1 (sebelum dijawab)_83
+    21300168: PISANG 1 (sebelum dijawab)_84
+    21300170: PISANG 1 (sebelum dijawab)_85
+    21300172: PISANG 1 (sebelum dijawab)_86
+    21300174: PISANG 1 (sebelum dijawab)_87
+    21300176: PISANG 1 (sebelum dijawab)_88
+    21300178: PISANG 1 (sebelum dijawab)_89
+    21300180: PISANG 1 (sebelum dijawab)_90
+    21300182: PISANG 1 (sebelum dijawab)_91
+    21300184: PISANG 1 (sebelum dijawab)_92
+    21300186: PISANG 1 (sebelum dijawab)_93
+    21300188: PISANG 1 (sebelum dijawab)_94
+    21300190: PISANG 1 (sebelum dijawab)_95
+    21300192: PISANG 1 (sebelum dijawab)_96
+    21300194: PISANG 1 (sebelum dijawab)_97
+    21300196: PISANG 1 (sebelum dijawab)_98
+    21300198: PISANG 1 (sebelum dijawab)_99
+    21300200: PISANG 1 (sebelum dijawab)_100
+    21300202: PISANG 1 (sebelum dijawab)_101
+    21300204: PISANG 1 (sebelum dijawab)_102
+    21300206: PISANG 1 (sebelum dijawab)_103
+    21300208: PISANG 1 (sebelum dijawab)_104
+    21300210: PISANG 1 (sebelum dijawab)_105
+    21300212: PISANG 1 (sebelum dijawab)_106
+    21300214: PISANG 1 (sebelum dijawab)_107
+    21300216: PISANG 1 (sebelum dijawab)_108
+    21300218: PISANG 1 (sebelum dijawab)_109
+    21300220: PISANG 1 (sebelum dijawab)_110
+    21300222: PISANG 1 (sebelum dijawab)_111
+    21300224: PISANG 1 (sebelum dijawab)_112
+    21300226: PISANG 1 (sebelum dijawab)_113
+    21300228: PISANG 1 (sebelum dijawab)_114
+    21300230: PISANG 1 (sebelum dijawab)_115
+    21300232: PISANG 1 (sebelum dijawab)_116
+    21300234: PISANG 1 (sebelum dijawab)_117
+    21300236: PISANG 1 (sebelum dijawab)_118
+    21300238: PISANG 1 (sebelum dijawab)_119
+    21300240: PISANG 1 (sebelum dijawab)_120
+    21300242: PISANG 1 (sebelum dijawab)_121
+    21300244: PISANG 1 (sebelum dijawab)_122
+    21300246: PISANG 1 (sebelum dijawab)_123
+    21300248: PISANG 1 (sebelum dijawab)_124
+    21300250: PISANG 1 (sebelum dijawab)_125
+    21300252: PISANG 1 (sebelum dijawab)_126
+    21300254: PISANG 1 (sebelum dijawab)_127
+    21300256: PISANG 1 (sebelum dijawab)_128
+    21300258: PISANG 1 (sebelum dijawab)_129
+    21300260: PISANG 1 (sebelum dijawab)_130
+    21300262: PISANG 1 (sebelum dijawab)_131
+    21300264: PISANG 1 (sebelum dijawab)_132
+    21300266: PISANG 1 (sebelum dijawab)_133
+    21300268: PISANG 1 (sebelum dijawab)_134
+    21300270: PISANG 1 (sebelum dijawab)_135
+    21300272: PISANG 1 (sebelum dijawab)_136
+    21300274: PISANG 1 (sebelum dijawab)_137
+    21300276: PISANG 1 (sebelum dijawab)_138
+    21300278: PISANG 1 (sebelum dijawab)_139
+    21300280: PISANG 1 (sebelum dijawab)_140
+    21300282: PISANG 1 (sebelum dijawab)_141
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 4500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_3
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 4500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_4
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 4500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_5
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_6
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 4500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_7
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 4500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_8
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 4500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 4200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_12
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 4200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_13
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 4200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_14
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_15
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 4200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_16
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 4200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_17
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 4200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_20
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_21
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_22
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_23
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_24
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 3900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_25
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_26
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 3900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_30
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_31
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_32
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_33
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 3600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_34
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_35
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 3600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_38
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_39
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_40
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_41
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_42
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 3300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_43
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_44
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 3300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3000
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_47
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3000
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_48
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3000
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_49
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3000
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_50
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3000
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_51
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 3000
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_52
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3000
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_53
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 3000
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2700
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_56
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2700
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_57
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2700
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_58
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2700
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_59
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2700
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_60
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2700
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_61
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2700
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_62
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2700
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_64
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2400
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_65
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2400
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_66
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2400
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_67
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2400
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_68
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2400
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_69
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2400
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_70
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2400
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_71
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2400
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_73
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2100
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_74
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2100
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_75
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2100
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_76
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2100
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_77
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2100
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_78
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2100
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_79
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2100
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_80
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2100
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_82
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1800
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_83
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1800
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_84
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1800
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_85
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1800
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_86
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1800
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_87
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1800
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_88
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1800
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_89
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1800
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_91
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_92
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_93
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_94
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_95
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_96
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_97
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_98
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1500
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_100
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_101
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_102
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_103
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_104
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_105
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_106
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_107
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1200
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_110
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_111
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_112
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_113
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_114
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_115
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_116
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 900
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_118
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_119
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_120
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_121
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_122
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_123
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_124
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_125
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 600
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_127
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_128
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_129
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_130
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_131
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_132
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_133
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_134
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 300
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_136
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_137
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_138
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_139
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_140
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PISANG 1 (sebelum dijawab)_141
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 440
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,12 +3,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class PanelBehaviour : MonoBehaviour {
 
     public GameObject panelEmpty;
     public GameObject panelFilled;
-    private GameObject go;
 
 
     public void OnPanelShow()

@@ -15,16 +15,16 @@ public class MoviePlayer : MonoBehaviour {
 #else
     private MovieTexture movie;
     private AudioSource audioMovie;
-#endif
     public Button playButton;
     public Sprite play;
     public Sprite pause;
     private bool isPause = false;
+#endif
 
     // Use this for initialization
     void Start() {
 #if UNITY_ANDROID
-        Handheld.PlayFullScreenMovie("asd.mp4");
+        StartCoroutine(PlayVideoCoroutine("asd.mp4"));
 #else
         switch (GamesVariables.songSelection)
         {
@@ -45,22 +45,24 @@ public class MoviePlayer : MonoBehaviour {
 #endif
     }
 
+#if UNITY_ANDROID
+    private IEnumerator PlayVideoCoroutine(string videoPath)
+    {
+        Handheld.PlayFullScreenMovie(videoPath, Color.black, FullScreenMovieControlMode.CancelOnInput, FullScreenMovieScalingMode.AspectFill);
+        yield return new WaitForEndOfFrame();
+
+        LoadScene();
+    }
+#else
     private void PlayMovietillEnd(Action callback)
     {
-#if UNITY_ANDROID
-        
-#else
         movie.Play();
         audioMovie.Play();
-#endif
         StartCoroutine(FindEnd(callback));
     }
 
     private IEnumerator FindEnd(Action callback)
     {
-#if UNITY_ANDROID
-        yield return 0;
-#else
         while (movie.isPlaying || isPause)
         {
             yield return 0;
@@ -68,18 +70,10 @@ public class MoviePlayer : MonoBehaviour {
 
         callback();
         yield break;
-#endif
     }
-
-    private void LoadScene()
-    {
-        SceneManager.LoadScene(5);
-    } 
 
     void PlayOrPause()
     {
-#if UNITY_ANDROID
-#else
         if (movie.isPlaying)
         {
             isPause = true;
@@ -91,7 +85,6 @@ public class MoviePlayer : MonoBehaviour {
             movie.Play();
             playButton.GetComponent<Image>().sprite = pause;
         }
-#endif
     }
 
     void NextSong()
@@ -102,5 +95,10 @@ public class MoviePlayer : MonoBehaviour {
     void PrevSong()
     {
 
+    }
+#endif
+    private void LoadScene()
+    {
+        SceneManager.LoadScene(5);
     }
 }

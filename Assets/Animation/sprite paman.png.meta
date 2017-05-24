@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 252cabbd87609d7468f3d23260cf4220
+timeCreated: 1495629482
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite paman_0
+    21300002: sprite paman_1
+    21300004: sprite paman_2
+    21300006: sprite paman_3
+    21300008: sprite paman_4
+    21300010: sprite paman_5
+    21300012: sprite paman_6
+    21300014: sprite paman_7
+    21300016: sprite paman_8
+    21300018: sprite paman_9
+    21300020: sprite paman_10
+    21300022: sprite paman_11
+    21300024: sprite paman_12
+    21300026: sprite paman_13
+    21300028: sprite paman_14
+    21300030: sprite paman_15
+    21300032: sprite paman_16
+    21300034: sprite paman_17
+    21300036: sprite paman_18
+    21300038: sprite paman_19
+    21300040: sprite paman_20
+    21300042: sprite paman_21
+    21300044: sprite paman_22
+    21300046: sprite paman_23
+    21300048: sprite paman_24
+    21300050: sprite paman_25
+    21300052: sprite paman_26
+    21300054: sprite paman_27
+    21300056: sprite paman_28
+    21300058: sprite paman_29
+    21300060: sprite paman_30
+    21300062: sprite paman_31
+    21300064: sprite paman_32
+    21300066: sprite paman_33
+    21300068: sprite paman_34
+    21300070: sprite paman_35
+    21300072: sprite paman_36
+    21300074: sprite paman_37
+    21300076: sprite paman_38
+    21300078: sprite paman_39
+    21300080: sprite paman_40
+    21300082: sprite paman_41
+    21300084: sprite paman_42
+    21300086: sprite paman_43
+    21300088: sprite paman_44
+    21300090: sprite paman_45
+    21300092: sprite paman_46
+    21300094: sprite paman_47
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite paman_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5203
+        width: 428
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_1
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 5203
+        width: 427
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_2
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 5203
+        width: 427
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_3
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 5203
+        width: 430
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_4
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 5203
+        width: 426
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_5
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 5203
+        width: 428
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_6
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 5203
+        width: 427
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_7
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 5203
+        width: 427
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_8
+      rect:
+        serializedVersion: 2
+        x: 5033
+        y: 5203
+        width: 430
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_9
+      rect:
+        serializedVersion: 2
+        x: 5654
+        y: 5203
+        width: 426
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4207
+        width: 490
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4207
+        width: 575
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_12
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 4207
+        width: 430
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_13
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 4207
+        width: 593
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_14
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 4207
+        width: 599
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_15
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 4207
+        width: 532
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_16
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 4207
+        width: 430
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_17
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 4207
+        width: 596
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_18
+      rect:
+        serializedVersion: 2
+        x: 4982
+        y: 4207
+        width: 596
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_19
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 4207
+        width: 536
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3232
+        width: 427
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2215
+        width: 596
+        height: 1961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_22
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 3209
+        width: 596
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_23
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 3208
+        width: 532
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_24
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3208
+        width: 430
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_25
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3211
+        width: 593
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_26
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 3211
+        width: 515
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_27
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 3209
+        width: 514
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_28
+      rect:
+        serializedVersion: 2
+        x: 4982
+        y: 3208
+        width: 514
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_29
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 3211
+        width: 554
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2215
+        width: 491
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_31
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 2215
+        width: 427
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_32
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 2218
+        width: 427
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_33
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 2218
+        width: 423
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_34
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 2218
+        width: 427
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_35
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 2216
+        width: 427
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_36
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 2215
+        width: 427
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_37
+      rect:
+        serializedVersion: 2
+        x: 5036
+        y: 2218
+        width: 427
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_38
+      rect:
+        serializedVersion: 2
+        x: 5657
+        y: 2218
+        width: 423
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1222
+        width: 429
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_40
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1222
+        width: 427
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_41
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1222
+        width: 427
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_42
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1222
+        width: 427
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_43
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1222
+        width: 426
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_44
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1222
+        width: 429
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_45
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 1222
+        width: 427
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_46
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 1222
+        width: 427
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite paman_47
+      rect:
+        serializedVersion: 2
+        x: 5036
+        y: 1222
+        width: 427
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

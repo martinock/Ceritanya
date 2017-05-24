@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: fff74b71e42fca14194a23401601e6ef
+timeCreated: 1495634645
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RAMBUTAN - animasi 1_0
+    21300002: RAMBUTAN - animasi 1_1
+    21300004: RAMBUTAN - animasi 1_2
+    21300006: RAMBUTAN - animasi 1_3
+    21300008: RAMBUTAN - animasi 1_4
+    21300010: RAMBUTAN - animasi 1_5
+    21300012: RAMBUTAN - animasi 1_6
+    21300014: RAMBUTAN - animasi 1_7
+    21300016: RAMBUTAN - animasi 1_8
+    21300018: RAMBUTAN - animasi 1_9
+    21300020: RAMBUTAN - animasi 1_10
+    21300022: RAMBUTAN - animasi 1_11
+    21300024: RAMBUTAN - animasi 1_12
+    21300026: RAMBUTAN - animasi 1_13
+    21300028: RAMBUTAN - animasi 1_14
+    21300030: RAMBUTAN - animasi 1_15
+    21300032: RAMBUTAN - animasi 1_16
+    21300034: RAMBUTAN - animasi 1_17
+    21300036: RAMBUTAN - animasi 1_18
+    21300038: RAMBUTAN - animasi 1_19
+    21300040: RAMBUTAN - animasi 1_20
+    21300042: RAMBUTAN - animasi 1_21
+    21300044: RAMBUTAN - animasi 1_22
+    21300046: RAMBUTAN - animasi 1_23
+    21300048: RAMBUTAN - animasi 1_24
+    21300050: RAMBUTAN - animasi 1_25
+    21300052: RAMBUTAN - animasi 1_26
+    21300054: RAMBUTAN - animasi 1_27
+    21300056: RAMBUTAN - animasi 1_28
+    21300058: RAMBUTAN - animasi 1_29
+    21300060: RAMBUTAN - animasi 1_30
+    21300062: RAMBUTAN - animasi 1_31
+    21300064: RAMBUTAN - animasi 1_32
+    21300066: RAMBUTAN - animasi 1_33
+    21300068: RAMBUTAN - animasi 1_34
+    21300070: RAMBUTAN - animasi 1_35
+    21300072: RAMBUTAN - animasi 1_36
+    21300074: RAMBUTAN - animasi 1_37
+    21300076: RAMBUTAN - animasi 1_38
+    21300078: RAMBUTAN - animasi 1_39
+    21300080: RAMBUTAN - animasi 1_40
+    21300082: RAMBUTAN - animasi 1_41
+    21300084: RAMBUTAN - animasi 1_42
+    21300086: RAMBUTAN - animasi 1_43
+    21300088: RAMBUTAN - animasi 1_44
+    21300090: RAMBUTAN - animasi 1_45
+    21300092: RAMBUTAN - animasi 1_46
+    21300094: RAMBUTAN - animasi 1_47
+    21300096: RAMBUTAN - animasi 1_48
+    21300098: RAMBUTAN - animasi 1_49
+    21300100: RAMBUTAN - animasi 1_50
+    21300102: RAMBUTAN - animasi 1_51
+    21300104: RAMBUTAN - animasi 1_52
+    21300106: RAMBUTAN - animasi 1_53
+    21300108: RAMBUTAN - animasi 1_54
+    21300110: RAMBUTAN - animasi 1_55
+    21300112: RAMBUTAN - animasi 1_56
+    21300114: RAMBUTAN - animasi 1_57
+    21300116: RAMBUTAN - animasi 1_58
+    21300118: RAMBUTAN - animasi 1_59
+    21300120: RAMBUTAN - animasi 1_60
+    21300122: RAMBUTAN - animasi 1_61
+    21300124: RAMBUTAN - animasi 1_62
+    21300126: RAMBUTAN - animasi 1_63
+    21300128: RAMBUTAN - animasi 1_64
+    21300130: RAMBUTAN - animasi 1_65
+    21300132: RAMBUTAN - animasi 1_66
+    21300134: RAMBUTAN - animasi 1_67
+    21300136: RAMBUTAN - animasi 1_68
+    21300138: RAMBUTAN - animasi 1_69
+    21300140: RAMBUTAN - animasi 1_70
+    21300142: RAMBUTAN - animasi 1_71
+    21300144: RAMBUTAN - animasi 1_72
+    21300146: RAMBUTAN - animasi 1_73
+    21300148: RAMBUTAN - animasi 1_74
+    21300150: RAMBUTAN - animasi 1_75
+    21300152: RAMBUTAN - animasi 1_76
+    21300154: RAMBUTAN - animasi 1_77
+    21300156: RAMBUTAN - animasi 1_78
+    21300158: RAMBUTAN - animasi 1_79
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2109
+        width: 356
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2109
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_2
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2109
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_3
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2109
+        width: 354
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_4
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 2109
+        width: 355
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_5
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 2109
+        width: 356
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_6
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 2109
+        width: 355
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_7
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2109
+        width: 355
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_8
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 2109
+        width: 354
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_9
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 2109
+        width: 352
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1810
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1810
+        width: 353
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_12
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1810
+        width: 353
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_13
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1810
+        width: 351
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_14
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1810
+        width: 350
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_15
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1810
+        width: 348
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_16
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1810
+        width: 346
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_17
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1808
+        width: 346
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_18
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1808
+        width: 345
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_19
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 1805
+        width: 343
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1501
+        width: 345
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_21
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1505
+        width: 346
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_22
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1505
+        width: 346
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_23
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1504
+        width: 347
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_24
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1503
+        width: 350
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_25
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1503
+        width: 350
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_26
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1503
+        width: 351
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_27
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1503
+        width: 354
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_28
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1503
+        width: 354
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_29
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 1503
+        width: 353
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1204
+        width: 353
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1203
+        width: 353
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_32
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1204
+        width: 353
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_33
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1206
+        width: 351
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_34
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1206
+        width: 350
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_35
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1207
+        width: 346
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_36
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1208
+        width: 346
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_37
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1208
+        width: 348
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_38
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1208
+        width: 347
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_39
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 1210
+        width: 345
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 909
+        width: 345
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_41
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 909
+        width: 347
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_42
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 909
+        width: 347
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_43
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 909
+        width: 349
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_44
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 909
+        width: 351
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_45
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 909
+        width: 352
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_46
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 909
+        width: 354
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_47
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 909
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_48
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 909
+        width: 354
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_49
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 909
+        width: 353
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 610
+        width: 354
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_51
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 610
+        width: 355
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_52
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 609
+        width: 354
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_53
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 610
+        width: 354
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_54
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 610
+        width: 355
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_55
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 610
+        width: 356
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_56
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 610
+        width: 355
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_57
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 609
+        width: 354
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_58
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 610
+        width: 354
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_59
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 610
+        width: 352
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 309
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_61
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 309
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_62
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 309
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_63
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 309
+        width: 354
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_64
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 309
+        width: 356
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_65
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 309
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_66
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 309
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_67
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 309
+        width: 355
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_68
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 309
+        width: 354
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_69
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 309
+        width: 353
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 356
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 10
+        width: 355
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_72
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 10
+        width: 355
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_73
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 10
+        width: 354
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_74
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 10
+        width: 355
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_75
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 10
+        width: 356
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_76
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 10
+        width: 355
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_77
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 10
+        width: 355
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_78
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 10
+        width: 354
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RAMBUTAN - animasi 1_79
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 10
+        width: 352
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

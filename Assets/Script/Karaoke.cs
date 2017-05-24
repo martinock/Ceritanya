@@ -13,8 +13,6 @@ public class Karaoke : MonoBehaviour
 #else
     private MovieTexture movie;
     private AudioSource audioKaraoke;
-#endif
-    public GameObject finishedPanel;
     public Button playButton;
     public Button muteButton;
     public Button homeButton;
@@ -23,12 +21,14 @@ public class Karaoke : MonoBehaviour
     public Sprite play;
     public Sprite pause;
     private bool isPause = false;
+#endif
+    public GameObject finishedPanel;
 
     // Use this for initialization
     void Start()
     {
 #if UNITY_ANDROID
-        Handheld.PlayFullScreenMovie("Basdat H-8.mp4", Color.black, FullScreenMovieControlMode.Full, FullScreenMovieScalingMode.AspectFill);
+        StartCoroutine(PlayVideoCoroutine("asd.mp4"));
 #else
         switch (GamesVariables.songSelection)
         {
@@ -53,10 +53,16 @@ public class Karaoke : MonoBehaviour
 #endif
     }
 
+#if UNITY_ANDROID
+    private IEnumerator PlayVideoCoroutine(string videoPath)
+    {
+        Handheld.PlayFullScreenMovie(videoPath, Color.black, FullScreenMovieControlMode.CancelOnInput, FullScreenMovieScalingMode.AspectFill);
+        yield return new WaitForEndOfFrame();
+        ShowPanel();
+    }
+#else
     void PlayOrPause()
     {
-#if UNITY_ANDROID
-#else
         if (movie.isPlaying)
         {
             PauseMovie();
@@ -67,13 +73,10 @@ public class Karaoke : MonoBehaviour
             PlayMovie();
             playButton.GetComponent<Image>().sprite = pause;
         }
-#endif
     }
 
     void Mute()
     {
-#if UNITY_ANDROID
-#else
         if (!audioKaraoke.mute)
         {
             audioKaraoke.mute = true;
@@ -82,65 +85,37 @@ public class Karaoke : MonoBehaviour
         {
             audioKaraoke.mute = false;
         }
-#endif
     }
 
     void PlayMovie()
     {
-#if UNITY_ANDROID
-#else
         isPause = false;
         movie.Play();
-#endif
     }
 
     void PauseMovie()
     {
-#if UNITY_ANDROID
-#else
         isPause = true;
         movie.Pause();
-#endif
     }
 
     void Repeat()
     {
-#if UNITY_ANDROID
-#else
         movie.Stop();
         audioKaraoke.Stop();
         movie.Play();
         audioKaraoke.Play();
-#endif
-    }
-
-    private void ShowPanel()
-    {
-#if UNITY_ANDROID
-#else
-        finishedPanel.SetActive(true);
-        playButton.interactable = false;
-        muteButton.interactable = false;
-        homeButton.interactable = false;
-#endif
     }
 
     private void PlayMovietillEnd(Action callback)
     {
-#if UNITY_ANDROID
-        
-#else
         movie.Play();
         audioKaraoke.Play();
-#endif
         StartCoroutine(FindEnd(callback));
     }
 
     private IEnumerator FindEnd(Action callback)
     {
-#if UNITY_ANDROID
-        yield return 0;
-#else
         while (movie.isPlaying || isPause)
         {
             yield return 0;
@@ -148,6 +123,15 @@ public class Karaoke : MonoBehaviour
 
         callback();
         yield break;
+    }
+#endif
+    private void ShowPanel()
+    {
+        finishedPanel.SetActive(true);
+#if UNITY_DESKTOP
+        playButton.interactable = false;
+        muteButton.interactable = false;
+        homeButton.interactable = false;
 #endif
     }
 }
