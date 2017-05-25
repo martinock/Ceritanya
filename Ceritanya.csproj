@@ -81,6 +81,7 @@
     <Compile Include="Assets\Script\LoadSceneOnClick.cs" />
     <Compile Include="Assets\Script\MoviePlayer.cs" />
     <Compile Include="Assets\Script\OnButtonTrueClick.cs" />
+    <Compile Include="Assets\Script\OnShareClick.cs" />
     <Compile Include="Assets\Script\PanelBehaviour.cs" />
     <Compile Include="Assets\Script\SplashScreen.cs" />
   </ItemGroup>
