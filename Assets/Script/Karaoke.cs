@@ -58,6 +58,7 @@ public class Karaoke : MonoBehaviour
     {
         Handheld.PlayFullScreenMovie(videoPath, Color.black, FullScreenMovieControlMode.Hidden, FullScreenMovieScalingMode.AspectFill);
         yield return new WaitForEndOfFrame();
+        PlayerPrefs.SetInt("has_knowledge", 1);
         ShowPanel();
     }
 #else
