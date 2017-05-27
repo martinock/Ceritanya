@@ -26,13 +26,16 @@ public class MainPageSingleton : MonoBehaviour {
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        if (scene.buildIndex == 4 || scene.buildIndex == 5 || scene.buildIndex == 6)
+        if (scene.buildIndex > 4)
         {
-            if (instance != null)
+            GetComponent<AudioSource>().mute = true;
+        } else
+        {
+            if (scene.buildIndex == 1)
             {
-                Destroy(this.gameObject);
-                return;
+                GetComponent<AudioSource>().Play();
             }
+            GetComponent<AudioSource>().mute = false;
         }
     }
 }
