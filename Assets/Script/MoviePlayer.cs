@@ -24,7 +24,7 @@ public class MoviePlayer : MonoBehaviour {
     // Use this for initialization
     void Start() {
 #if UNITY_ANDROID
-        StartCoroutine(PlayVideoCoroutine("asd.mp4"));
+        StartCoroutine(PlayVideoCoroutine("Paman Datang_1.mp4"));
 #else
         switch (GamesVariables.songSelection)
         {
@@ -48,7 +48,7 @@ public class MoviePlayer : MonoBehaviour {
 #if UNITY_ANDROID
     private IEnumerator PlayVideoCoroutine(string videoPath)
     {
-        Handheld.PlayFullScreenMovie(videoPath, Color.black, FullScreenMovieControlMode.CancelOnInput, FullScreenMovieScalingMode.AspectFill);
+        Handheld.PlayFullScreenMovie(videoPath, Color.black, FullScreenMovieControlMode.Full, FullScreenMovieScalingMode.AspectFill);
         yield return new WaitForEndOfFrame();
 
         LoadScene();
@@ -99,6 +99,6 @@ public class MoviePlayer : MonoBehaviour {
 #endif
     private void LoadScene()
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(6);
     }
 }

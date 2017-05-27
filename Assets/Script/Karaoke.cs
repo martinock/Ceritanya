@@ -28,7 +28,7 @@ public class Karaoke : MonoBehaviour
     void Start()
     {
 #if UNITY_ANDROID
-        StartCoroutine(PlayVideoCoroutine("asd.mp4"));
+        StartCoroutine(PlayVideoCoroutine("Paman Datang karaoke.mp4"));
 #else
         switch (GamesVariables.songSelection)
         {
@@ -56,7 +56,7 @@ public class Karaoke : MonoBehaviour
 #if UNITY_ANDROID
     private IEnumerator PlayVideoCoroutine(string videoPath)
     {
-        Handheld.PlayFullScreenMovie(videoPath, Color.black, FullScreenMovieControlMode.CancelOnInput, FullScreenMovieScalingMode.AspectFill);
+        Handheld.PlayFullScreenMovie(videoPath, Color.black, FullScreenMovieControlMode.Hidden, FullScreenMovieScalingMode.AspectFill);
         yield return new WaitForEndOfFrame();
         ShowPanel();
     }
