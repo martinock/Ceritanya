@@ -28,4 +28,9 @@ public class OnButtonTrueClick : MonoBehaviour {
     {
         GamesVariables.IsRambutanTrue = x;
     }
+
+    public void GameFinished(Boolean x)
+    {
+        GamesVariables.IsGameFinished = x;
+    }
 }

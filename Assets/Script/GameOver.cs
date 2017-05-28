@@ -15,7 +15,11 @@ public class GameOver : MonoBehaviour {
 	void Update () {
 	    if (IsGameOver())
         {
-            finishedPanel.SetActive(true);
+            if (!GamesVariables.IsGameFinished)
+            {
+                finishedPanel.SetActive(true);
+                GamesVariables.IsGameFinished = true;
+            }
         }
 	}
 

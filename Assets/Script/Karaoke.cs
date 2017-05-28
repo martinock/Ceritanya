@@ -23,11 +23,13 @@ public class Karaoke : MonoBehaviour
     private bool isPause = false;
 #endif
     public GameObject finishedPanel;
+    private AudioClip audioKaraoke;
 
     // Use this for initialization
     void Start()
     {
 #if UNITY_ANDROID
+        audioKaraoke = Microphone.Start(null, false, 65, 44100);
         StartCoroutine(PlayVideoCoroutine("Paman Datang karaoke.mp4"));
 #else
         switch (GamesVariables.songSelection)
@@ -129,6 +131,8 @@ public class Karaoke : MonoBehaviour
     private void ShowPanel()
     {
         finishedPanel.SetActive(true);
+        GetComponent<AudioSource>().clip = audioKaraoke;
+        GetComponent<AudioSource>().Play();
 #if UNITY_DESKTOP
         playButton.interactable = false;
         muteButton.interactable = false;

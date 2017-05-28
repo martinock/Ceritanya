@@ -18,9 +18,4 @@ public class CheckKnowledge : MonoBehaviour {
 
         //PlayerPrefs.DeleteAll(); //This is for Debugging purpose
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
